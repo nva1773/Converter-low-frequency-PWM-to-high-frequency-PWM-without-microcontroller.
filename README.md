@@ -1,4 +1,4 @@
-# Converter-low-frequency-PWM-to-high-frequency-PWM-without-microcontroller.
+# Low-frequency PWM to High-frequency PWM.
 Circuit converter low-frequency PWM to high-frequency PWM without microcontroller.
 
 Input - 100Hz PWM 10%...95%;
